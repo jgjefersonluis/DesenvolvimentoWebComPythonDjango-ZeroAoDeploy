@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2f4cebb-7708-4c7e-8330-8a4fc0f30f73" name="Default Changelist" comment="" />
+    <list default="true" id="c2f4cebb-7708-4c7e-8330-8a4fc0f30f73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDados/boolean/boolean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDados/conversaoTiposDados/conversao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDados/conversaoTiposDados/conversaoInteiroEmString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDados/float/float.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDados/funcao/funcaoComReturn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDados/funcao/funcaoCombinacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDados/funcao/funcaoFatorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDados/funcao/funcaoMultiplicacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDados/input/input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDados/int/int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDados/int/int1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDados/print/print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDados/strings/dadosPessoaisMeus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiposDeDados/strings/operadorMaisConcatena.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variaveis/Soma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variaveis/SomaDoisInteiros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +35,30 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\JefersonWorkSpace2020\python\DesenvolvimentoWebComPythonDjango-ZeroAoDeploy\PythonSecao1\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1jfoHrlsJE3htIs4B2ETz8Pdodm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JefersonWorkSpace2020\python\DesenvolvimentoWebComPythonDjango-ZeroAoDeploy\PythonSecao1\tiposDeDados\print" />
+      <recent name="C:\JefersonWorkSpace2020\python\DesenvolvimentoWebComPythonDjango-ZeroAoDeploy\PythonSecao1\tiposDeDados\input" />
+      <recent name="C:\JefersonWorkSpace2020\python\DesenvolvimentoWebComPythonDjango-ZeroAoDeploy\PythonSecao1\tiposDeDados\int" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,8 +71,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="helloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.conversaoInteiroEmString">
+    <configuration name="conversao" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSecao1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,11 +80,95 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tiposDeDados/conversaoTiposDados" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloWorld.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tiposDeDados/conversaoTiposDados/conversao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conversaoInteiroEmString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonSecao1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tiposDeDados/conversaoTiposDados" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tiposDeDados/conversaoTiposDados/conversaoInteiroEmString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="funcaoComReturn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonSecao1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tiposDeDados/funcao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tiposDeDados/funcao/funcaoComReturn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="funcaoCombinacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonSecao1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tiposDeDados/funcao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tiposDeDados/funcao/funcaoCombinacao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="funcaoMultiplicacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonSecao1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tiposDeDados/funcao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tiposDeDados/funcao/funcaoMultiplicacao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -52,7 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.helloWorld" />
+        <item itemvalue="Python.conversaoInteiroEmString" />
+        <item itemvalue="Python.conversao" />
+        <item itemvalue="Python.funcaoComReturn" />
+        <item itemvalue="Python.funcaoMultiplicacao" />
+        <item itemvalue="Python.funcaoCombinacao" />
       </list>
     </recent_temporary>
   </component>
@@ -68,5 +199,16 @@
       <updated>1604204421902</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
