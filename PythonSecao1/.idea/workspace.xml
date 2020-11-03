@@ -2,24 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2f4cebb-7708-4c7e-8330-8a4fc0f30f73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiposDeDados/boolean/boolean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiposDeDados/conversaoTiposDados/conversao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiposDeDados/conversaoTiposDados/conversaoInteiroEmString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiposDeDados/float/float.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiposDeDados/funcao/funcaoComReturn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiposDeDados/funcao/funcaoCombinacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiposDeDados/funcao/funcaoFatorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiposDeDados/funcao/funcaoMultiplicacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiposDeDados/input/input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiposDeDados/int/int.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiposDeDados/int/int1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiposDeDados/print/print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiposDeDados/strings/dadosPessoaisMeus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiposDeDados/strings/operadorMaisConcatena.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variaveis/Soma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variaveis/SomaDoisInteiros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicionais/ifElse/ifElse1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicionais/ifElse/ifElse2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeControle/for/for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeControle/for/for1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeControle/for/for2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeControle/for/for3Break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeControle/for/for4Continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeControle/for/for5Range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeControle/for/for6Range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeControle/for/for7Range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeControle/for/for8Parametro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeControle/for/for9Aninhado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeControle/while/while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeControle/while/while1Break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeControle/while/while2Continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeControle/while/while3Else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list10ComprimentoLen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list11AdicionarItemAppend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list12AdicionarItemInsert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list14RemoverPop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list15RemoverDel-IndiceEspecificado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list16RemoverDel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list17Clear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list18CopiaCopy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list19CopiaList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list1ItensDeAcesso.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list20JuntandoDuasListas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list21JuntarAnexar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list22Extend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list23ConstrutorList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list2IndexacaoNegativa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list3GamaDeIndices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list4SemIndice4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list5Indice2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list6IndicesNegativos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list7IndiceEspecifico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list8For.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/list9ItemExiste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/listas/metodosLista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple10Criar1Item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple11RemoverDel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple12Juntar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple13Construtor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple1AcessarItem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple2IndexacaoNegativa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple3GamaDeIndices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple4IndicesNegativo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple5AlterarValorTuplas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple6For.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple7ExisteItem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple8ComprimentoLen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple9AdicionarItem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,9 +90,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\JefersonWorkSpace2020\python\DesenvolvimentoWebComPythonDjango-ZeroAoDeploy\PythonSecao1\tiposDeDados\print" />
-      <recent name="C:\JefersonWorkSpace2020\python\DesenvolvimentoWebComPythonDjango-ZeroAoDeploy\PythonSecao1\tiposDeDados\input" />
-      <recent name="C:\JefersonWorkSpace2020\python\DesenvolvimentoWebComPythonDjango-ZeroAoDeploy\PythonSecao1\tiposDeDados\int" />
+      <recent name="C:\JefersonWorkSpace2020\python\DesenvolvimentoWebComPythonDjango-ZeroAoDeploy\PythonSecao1\estruturaDeControle\while" />
+      <recent name="C:\JefersonWorkSpace2020\python\DesenvolvimentoWebComPythonDjango-ZeroAoDeploy\PythonSecao1\estruturaDeControle" />
+      <recent name="C:\JefersonWorkSpace2020\python\DesenvolvimentoWebComPythonDjango-ZeroAoDeploy\PythonSecao1\estruturaDeControle\for" />
+      <recent name="C:\JefersonWorkSpace2020\python\DesenvolvimentoWebComPythonDjango-ZeroAoDeploy\PythonSecao1\condicionais\switch" />
+      <recent name="C:\JefersonWorkSpace2020\python\DesenvolvimentoWebComPythonDjango-ZeroAoDeploy\PythonSecao1\condicionais\ifElse" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -71,8 +109,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.conversaoInteiroEmString">
-    <configuration name="conversao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.tuple13Construtor">
+    <configuration name="tuple10Criar1Item" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSecao1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tiposDeDados/conversaoTiposDados" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estruturaDeDados/tuplas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tiposDeDados/conversaoTiposDados/conversao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple10Criar1Item.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="conversaoInteiroEmString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tuple11RemoverDel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSecao1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tiposDeDados/conversaoTiposDados" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estruturaDeDados/tuplas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tiposDeDados/conversaoTiposDados/conversaoInteiroEmString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple11RemoverDel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="funcaoComReturn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tuple12Juntar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSecao1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tiposDeDados/funcao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estruturaDeDados/tuplas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tiposDeDados/funcao/funcaoComReturn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple12Juntar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="funcaoCombinacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tuple13Construtor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSecao1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tiposDeDados/funcao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estruturaDeDados/tuplas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tiposDeDados/funcao/funcaoCombinacao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple13Construtor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="funcaoMultiplicacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tuple9AdicionarItem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSecao1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tiposDeDados/funcao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estruturaDeDados/tuplas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tiposDeDados/funcao/funcaoMultiplicacao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estruturaDeDados/tuplas/tuple9AdicionarItem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.conversaoInteiroEmString" />
-        <item itemvalue="Python.conversao" />
-        <item itemvalue="Python.funcaoComReturn" />
-        <item itemvalue="Python.funcaoMultiplicacao" />
-        <item itemvalue="Python.funcaoCombinacao" />
+        <item itemvalue="Python.tuple13Construtor" />
+        <item itemvalue="Python.tuple12Juntar" />
+        <item itemvalue="Python.tuple11RemoverDel" />
+        <item itemvalue="Python.tuple10Criar1Item" />
+        <item itemvalue="Python.tuple9AdicionarItem" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +243,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
