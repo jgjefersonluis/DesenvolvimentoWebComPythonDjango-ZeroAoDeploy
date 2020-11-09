@@ -2,41 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2f4cebb-7708-4c7e-8330-8a4fc0f30f73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/conjuntos/set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/conjuntos/set1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/conjuntos/set10Del.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/conjuntos/set11Union.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/conjuntos/set12Update.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/conjuntos/set13Construtor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/conjuntos/set2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/conjuntos/set3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/conjuntos/set4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/conjuntos/set5Len.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/conjuntos/set6Remove.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/conjuntos/set7Discart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/conjuntos/set8Pop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/conjuntos/set9Clear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict10Add.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict11Pop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict12PopItem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict13Del.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict14DelError.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict15Clear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict16Copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict17MyDict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict18Aninahdo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaDeDados/dicionarios/dict9ComprimentoLen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/agencia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/banco_poo.wsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/carro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/conta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/funcionario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/gerente.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/pessoa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/pessoa_fisica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/pessoa_juridica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/programa1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excecoes/divisao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excecoes/excecoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excecoes/excecoes1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulosPython/meumodulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulosPython/meumodulo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulosPython/meumodulo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulosPython/moduloTkinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulosPython/mymodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulosPython/platform.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulosPython/platformList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,8 +75,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.set13Construtor">
-    <configuration name="set10Del" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.carro">
+    <configuration name="carro" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSecao1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estruturaDeDados/conjuntos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estruturaDeDados/conjuntos/set10Del.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/carro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set11Union" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="platform" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSecao1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estruturaDeDados/conjuntos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulosPython" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estruturaDeDados/conjuntos/set11Union.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulosPython/platform.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set12Update" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="platformList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSecao1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estruturaDeDados/conjuntos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulosPython" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estruturaDeDados/conjuntos/set12Update.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulosPython/platformList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set13Construtor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="programa1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSecao1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estruturaDeDados/conjuntos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estruturaDeDados/conjuntos/set13Construtor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/programa1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set9Clear" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="programaCar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSecao1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estruturaDeDados/conjuntos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estruturaDeDados/conjuntos/set9Clear.py" />
+      <option name="SCRIPT_NAME" value="C:\JefersonWorkSpace2020\python\DesenvolvimentoWebComPythonDjango-ZeroAoDeploy\PythonSecao1\POO\carro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.set13Construtor" />
-        <item itemvalue="Python.set12Update" />
-        <item itemvalue="Python.set11Union" />
-        <item itemvalue="Python.set10Del" />
-        <item itemvalue="Python.set9Clear" />
+        <item itemvalue="Python.carro" />
+        <item itemvalue="Python.programaCar" />
+        <item itemvalue="Python.programa1" />
+        <item itemvalue="Python.platformList" />
+        <item itemvalue="Python.platform" />
       </list>
     </recent_temporary>
   </component>

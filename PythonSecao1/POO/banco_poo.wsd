@@ -1,0 +1,57 @@
+title Diagrama de Classes do Banco
+class Pessoa{
+    nome:String
+    endereco: String
+
+    construtor (nome, endereco)
+}
+
+class PessoaFisica{
+cpf: String
+data_nascimento: Date
+
+construtor(pessoa, cpf, data_nascimento)
+validar_cpf(cpf)
+
+}
+
+class PessoaJuridica{
+cnpj:String
+
+valida_cnpj(cnpj, razao social)
+}
+
+class Funcionario{
+cargo: String
+matricula: Integer
+senha: String
+salario: Decimal
+
+construtor(cargo, matricula, senha, salario)
+acessar_sistema(senha)
+calcular_gratificacao(Salario)
+}
+
+class Gerente{
+    -qtd_funcionarios:Integer
+
+    construtor(cargo, matricula, senha, salario)
+    acessar_sistema(senha)
+    calcular_gratificacao(Salario)
+ }
+
+class Agencia{
+    numero:String
+}
+
+class Conta{
+numero: String
+agencia: Agencia
+cliente: Pessoa
+saldo: Double
+
+sacar(valor)
+depositar(valor)
+}
+
+
